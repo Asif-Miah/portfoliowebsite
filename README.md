@@ -1,3 +1,14 @@
+**Feature:** This portfolio website features multiple sections including a homepage, about page, and contact page, navigable through a responsive navbar. It showcases the developer's skills, work, and contact information with interactive elements like smooth scrolling and a hamburger menu for mobile devices.The portfolio website offers direct links to social media profiles and includes a contact form enabling visitors to send messages via email directly from the site.
+
+**Technoloy used:**![Screenshot (5)](https://github.com/Asif3237/portfoliowebsite/assets/99876059/0ddea986-afc4-4012-952b-8d4ca5dba890)
+![Screenshot (4)](https://github.com/Asif3237/portfoliowebsite/assets/99876059/c6286f72-33b9-44b4-9d94-b3fe42cc2d7c)
+![Screenshot (3)](https://github.com/Asif3237/portfoliowebsite/assets/99876059/b3f29854-8602-4d3a-8499-86d94665c7b3)
+![Screenshot (2)](https://github.com/Asif3237/portfoliowebsite/assets/99876059/6e9cd70b-b154-454f-9b12-1ca911e0e436)
+![Screenshot (1)](https://github.com/Asif3237/portfoliowebsite/assets/99876059/5f356e21-37be-4d0b-9fd3-c927b99519f9)
+ React js,Javascript,emailjs,html,css ,React Icon and more..
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
